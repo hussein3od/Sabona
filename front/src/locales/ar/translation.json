@@ -1,0 +1,636 @@
+{
+  "hero": {
+    "subtitle": "أكثر من مجرد صابون",
+    "titleLine1": "عناية نقية من أجل",
+    "titleLine2": "جمالك الطبيعي",
+    "description": "صابون مصنوع يدويًا من مكونات طبيعية لبشرة أكثر صحة وإطلالة أنقى وأكثر إشراقًا.",
+    "shop": "تسوق الآن ←"
+  },
+
+  "features": {
+    "naturalIngredients": {
+      "title": "مكونات طبيعية",
+      "description": {
+        "line1": "لطيفة على بشرتك،",
+        "line2": "وصديقة للبيئة"
+      }
+    },
+    "allSkinTypes": {
+      "title": "لجميع أنواع البشرة",
+      "description": {
+        "line1": "نظيفة، متوازنة، وصحية",
+        "line2": "بشكل طبيعي"
+      }
+    },
+    "fastDelivery": {
+      "title": "توصيل سريع وآمن",
+      "description": {
+        "line1": "طلبك طازج،",
+        "line2": "حتى باب منزلك"
+      }
+    },
+    "trustedQuality": {
+      "title": "جودة موثوقة",
+      "description": {
+        "line1": "منتجات نقية،",
+        "line2": "نتائج حقيقية"
+      }
+    }
+  },
+  "footer": {
+    "folow":" تابعونا على:",
+    "location": "العراق, بغداد"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "contact": "اتصل بنا",
+    "admin": "الادمن"
+  },
+  "filters": {
+    "title": "الفلاتر",
+    "skin": {
+      "label": "البشرة:",
+      "oily": "دهنية",
+      "dry": "جافة",
+      "normal": "عادية",
+      "sensitive": "حساسة"
+  },
+  "usage": {
+    "label": "الاستخدام:",
+    "face": "الوجه",
+    "body": "الجسم",
+    "hair": "الشعر"
+  },
+  "search": "ابحث عن منتج...",
+  "clear": "مسح"
+  },
+  "productsSection": {
+    "label": "منتجاتنا",
+    "title": "عناية طبيعية، نتائج حقيقية",
+    "description": "اكتشف صابوننا المصنوع بعناية ومنتجات العناية بالبشرة الأساسية.",
+    "emptyTitle": "لم يتم العثور على منتجات",
+    "emptyDescription": "جرّب تغيير الفلاتر أو البحث."
+  },
+  "signup": {
+    "joinSabona": "انضم إلى سابونا",
+    "titleLine1": "العناية الطبيعية",
+    "titleLine2": "تبدأ معك",
+    "description": "أنشئ حسابك وكن أول من يكتشف المنتجات الجديدة والعروض الحصرية ونصائح الجمال الطبيعي.",
+
+    "features": {
+      "exclusiveOffers": {
+        "title": "عروض حصرية",
+        "description": "احصل على عروض خاصة وآخر التحديثات."
+      },
+      "personalizedExperience": {
+        "title": "تجربة مخصصة",
+        "description": "اكتشف المنتجات التي تناسب بشرتك."
+      },
+      "safeSecure": {
+        "title": "آمن ومحمي",
+        "description": "معلوماتك محمية دائمًا."
+      }
+    },
+
+    "card": {
+      "title": "أنشئ حسابك"
+    },
+
+    "form": {
+      "fullName": {
+        "label": "الاسم الكامل *",
+        "placeholder": "أدخل اسمك الكامل"
+      },
+
+      "email": {
+        "label": "البريد الإلكتروني *",
+        "placeholder": "you@example.com"
+      },
+
+      "phone": {
+        "label": "رقم الهاتف",
+        "optional": "اختياري",
+        "placeholder": "+964 7X XXXXXXX"
+      },
+
+      "password": {
+        "label": "كلمة المرور *",
+        "placeholder": "أنشئ كلمة مرور"
+      },
+
+      "confirmPassword": {
+        "label": "تأكيد كلمة المرور *",
+        "placeholder": "أكد كلمة المرور"
+      },
+
+      "createAccount": "إنشاء الحساب",
+      "or": "أو",
+      "alreadyHaveAccount": "لديك حساب بالفعل؟",
+      "login": "تسجيل الدخول"
+    }
+  },
+  "login": {
+  "welcome": "مرحبًا بعودتك",
+  "titleLine1": "العناية الطبيعية",
+  "titleLine2": "صُممت من أجلك",
+  "description":
+    "سجّل الدخول إلى حسابك في سابونا وواصل رحلتك نحو بشرة أكثر صحة وجمال طبيعي.",
+
+  "features": {
+    "naturalCare": {
+      "title": "عناية طبيعية",
+      "description": "مكونات نقية لبشرة أكثر صحة."
+    },
+
+    "personalized": {
+      "title": "تجربة مخصصة",
+      "description": "اكتشف المنتجات التي تناسب بشرتك."
+    },
+
+    "secure": {
+      "title": "آمن ومحمي",
+      "description": "معلوماتك محمية دائمًا."
+    }
+  },
+
+  "card": {
+    "title": "مرحبًا بعودتك",
+    "description": "سجّل الدخول إلى حسابك للمتابعة."
+  },
+
+  "form": {
+    "email": {
+      "label": "البريد الإلكتروني *",
+      "placeholder": "you@example.com"
+    },
+
+    "password": {
+      "label": "كلمة المرور *",
+      "placeholder": "أدخل كلمة المرور"
+    },
+
+    "login": "تسجيل الدخول",
+    "or": "أو",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "signup": "إنشاء حساب"
+  }
+},
+"profile": {
+  "loading": "جاري تحميل الحساب...",
+
+  "pageLabel": "حسابي",
+
+  "welcome": "مرحبًا بعودتك",
+
+  "subtitle": "رحلتك الطبيعية، بطريقتك.",
+
+  "editImage": "تعديل صورة الملف الشخصي",
+
+  "editProfile": "تعديل الملف",
+
+  "accountInformation": "معلومات الحساب",
+
+  "notProvided": "غير مضاف",
+
+  "sidebar": {
+    "profile": "الملف الشخصي",
+    "wishlist": "المفضلة",
+    "orders": "الطلبات السابقة",
+    "cart": "السلة",
+    "tagline": "عناية طبيعية،\nجمال يدوم."
+  },
+
+  "fields": {
+    "fullName": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف"
+  }
+},
+"adminDashboard": {
+  "administration": "الإدارة",
+  "title": "لوحة تحكم المسؤول",
+  "subtitle": "إدارة متجرك ومتابعة طلباتك.",
+  "refresh": "تحديث البيانات",
+  "tryAgain": "إعادة المحاولة",
+  "statsLabel": "إحصائيات المتجر",
+  "errors": {
+    "fetchFailed": "تعذر تحميل الإحصائيات. حاول مرة أخرى.",
+    "invalidResponse": "استجابة الإحصائيات غير صالحة."
+  },
+
+  "stats": {
+    "totalSales": "إجمالي المبيعات",
+    "orders": "الطلبات",
+    "customers": "العملاء",
+    "products": "المنتجات"
+  },
+
+  "cards": {
+    "products": {
+      "title": "المنتجات",
+      "description": "إضافة وتعديل وإدارة منتجاتك."
+    },
+
+    "orders": {
+      "title": "الطلبات",
+      "description": "عرض وإدارة طلبات العملاء."
+    },
+
+    "customers": {
+      "title": "العملاء",
+      "description": "عرض عملائك ومتابعة نشاطهم."
+    }
+  }
+},
+"adminProducts": {
+  "administration": "الإدارة",
+  "title": "المنتجات",
+  "subtitle": "إدارة منتجات متجرك.",
+  "addProduct": "إضافة منتج",
+  "loading": "جاري تحميل المنتجات...",
+
+  "table": {
+    "product": "المنتج",
+    "price": "السعر",
+    "stock": "المخزون",
+    "actions": "الإجراءات"
+  },
+
+  "empty": {
+    "title": "لا توجد منتجات بعد",
+    "description": "أضف أول منتج إلى متجرك."
+  },
+
+  "actions": {
+    "edit": "تعديل المنتج",
+    "delete": "حذف المنتج"
+  },
+
+  "delete": {
+    "confirm": "هل أنت متأكد من أنك تريد حذف هذا المنتج؟"
+  },
+
+  "errors": {
+    "loadFailed": "فشل تحميل المنتجات",
+    "deleteFailed": "فشل حذف المنتج"
+  }
+},
+"adminAddProduct": {
+  "backToProducts": "العودة إلى المنتجات",
+  "administration": "الإدارة",
+  "title": "إضافة منتج",
+  "subtitle": "أضف منتجًا جديدًا إلى متجرك.",
+
+  "sections": {
+    "productName": {
+      "title": "اسم المنتج",
+      "description": "أضف اسم المنتج باللغتين."
+    },
+
+    "description": {
+      "title": "الوصف"
+    },
+
+    "ingredients": {
+      "title": "المكونات"
+    },
+
+    "usage": {
+      "title": "طريقة الاستخدام"
+    },
+
+    "benefits": {
+      "title": "الفوائد"
+    },
+
+    "warnings": {
+      "title": "التحذيرات"
+    },
+
+    "priceStock": {
+      "title": "السعر والمخزون"
+    },
+
+    "productUsage": {
+      "title": "استخدام المنتج",
+      "description":
+        "حدد جميع المناطق التي يمكن استخدام هذا المنتج عليها."
+    },
+
+    "skinTypes": {
+      "title": "أنواع البشرة",
+      "description":
+        "حدد جميع أنواع البشرة التي يناسبها هذا المنتج."
+    }
+  },
+
+  "fields": {
+    "nameEnglish": "الاسم بالإنجليزية",
+    "nameArabic": "الاسم بالعربية",
+
+    "descriptionEnglish": "الوصف بالإنجليزية",
+    "descriptionArabic": "الوصف بالعربية",
+
+    "ingredientsEnglish": "المكونات بالإنجليزية",
+    "ingredientsArabic": "المكونات بالعربية",
+
+    "usageEnglish": "طريقة الاستخدام بالإنجليزية",
+    "usageArabic": "طريقة الاستخدام بالعربية",
+
+    "benefitsEnglish": "الفوائد بالإنجليزية",
+    "benefitsArabic": "الفوائد بالعربية",
+
+    "warningsEnglish": "التحذيرات بالإنجليزية",
+    "warningsArabic": "التحذيرات بالعربية",
+
+    "price": "السعر (دينار عراقي)",
+    "stock": "المخزون"
+  },
+
+  "placeholders": {
+    "nameEnglish": "مثال: Natural Aloe Soap",
+    "nameArabic": "مثال: صابون الألوفيرا الطبيعي",
+
+    "descriptionEnglish": "Describe the product...",
+    "descriptionArabic": "اكتب وصف المنتج...",
+
+    "ingredientsEnglish":
+      "Example: Olive oil, coconut oil...",
+    "ingredientsArabic":
+      "مثال: زيت الزيتون، زيت جوز الهند...",
+
+    "usageEnglish": "Explain how to use the product...",
+    "usageArabic": "اكتب طريقة استخدام المنتج...",
+
+    "benefitsEnglish": "List the product benefits...",
+    "benefitsArabic": "اكتب فوائد المنتج...",
+
+    "warningsEnglish": "Add product warnings...",
+    "warningsArabic": "اكتب تحذيرات المنتج..."
+  },
+
+  "usageTypes": {
+    "face": "الوجه",
+    "body": "الجسم",
+    "hair": "الشعر"
+  },
+
+  "skinTypes": {
+    "oily": "دهنية",
+    "dry": "جافة",
+    "normal": "عادية",
+    "sensitive": "حساسة"
+  },
+
+  "buttons": {
+    "cancel": "إلغاء",
+    "create": "إنشاء المنتج",
+    "creating": "جاري إنشاء المنتج..."
+  },
+
+  "errors": {
+    "nameRequired":
+      "يجب إدخال اسم المنتج باللغتين.",
+
+    "priceRequired":
+      "يرجى إدخال سعر صحيح.",
+
+    "stockRequired":
+      "يرجى إدخال كمية مخزون صحيحة.",
+
+    "usageRequired":
+      "يرجى اختيار نوع استخدام واحد على الأقل.",
+
+    "skinRequired":
+      "يرجى اختيار نوع بشرة واحد على الأقل.",
+
+    "createFailed":
+      "فشل إنشاء المنتج."
+  },
+
+  "success": "تم إنشاء المنتج بنجاح."
+},
+  "wishlist": {
+    "loading": "جاري تحميل المفضلة...",
+    "pageLabel": "حسابي",
+    "welcome": "مرحبًا بعودتك",
+    "subtitle": "رحلتك الطبيعية، بطريقتك.",
+    "sidebar": {
+      "profile": "الملف الشخصي",
+      "wishlist": "المفضلة",
+      "orders": "الطلبات السابقة",
+      "cart": "السلة",
+      "tagline": "عناية طبيعية،\nجمال يدوم."
+    },
+    "title": "قائمة أمنياتي",
+    "description": "المنتجات التي اخترتها للعناية بك.",
+    "empty": {
+      "title": "قائمة أمنياتك فارغة",
+      "description": "ابدأ بإضافة المنتجات التي تعجبك إلى قائمة أمنياتك."
+    },
+    "explore": "تصفح المنتجات",
+    "noImage": "لا توجد صورة",
+    "removeAria": "إزالة من المفضلة",
+    "errors": {
+      "loadWishlist": "فشل تحميل المفضلة",
+      "loadProducts": "فشل تحميل المنتجات",
+      "removeProduct": "فشل إزالة المنتج"
+    }
+  },
+  "productDetails": {
+    "loading": "جاري تحميل المنتج...",
+    "notFound": "المنتج غير موجود",
+    "backToShop": "العودة للمتجر",
+    "noImage": "لا توجد صورة",
+    "category": "صابون طبيعي",
+    "description": "الوصف",
+    "outOfStock": "غير متوفر حالياً",
+    "stockAvailable": "{{count}} قطعة متوفرة",
+    "quantity": "الكمية",
+    "adding": "جاري الإضافة...",
+    "addToCart": "أضف إلى السلة",
+    "failedToAdd": "فشل إضافة المنتج",
+    "addedToCart": "تمت إضافة المنتج إلى السلة",
+    "somethingWentWrong": "حدث خطأ، حاول مرة أخرى",
+    "use": "الاستخدام",
+    "skinType": "نوع البشرة",
+    "usageTypes": {
+      "face": "الوجه",
+      "body": "الجسم",
+      "hair": "الشعر"
+    },
+    "skinTypes": {
+      "oily": "دهنية",
+      "dry": "جافة",
+      "normal": "عادية",
+      "sensitive": "حساسة"
+    },
+    "ingredients": "المكونات",
+    "howToUse": "طريقة الاستخدام",
+    "benefits": "الفوائد",
+    "warnings": "تحذيرات"
+  },
+  "orders": {
+    "loading": "جاري تحميل الطلبات...",
+    "loadFailed": "فشل تحميل الطلبات",
+    "reorderFailed": "حدث خطأ أثناء إعادة الطلب",
+    "itemsCouldNotBeAdded": "تعذر إضافة بعض المنتجات",
+    "backToProfile": "العودة إلى الملف الشخصي",
+    "accountLabel": "حسابك",
+    "title": "الطلبات السابقة",
+    "empty": {
+      "title": "لا توجد طلبات بعد",
+      "description": "عندما تقوم بإجراء طلب ستظهر تفاصيله هنا."
+    },
+    "startShopping": "ابدأ التسوق",
+    "orderLabel": "رقم الطلب",
+    "noImage": "لا توجد صورة",
+    "quantity": "الكمية: {{count}}",
+    "total": "المجموع",
+    "addToCart": "إضافة إلى السلة",
+    "status": {
+      "pending": "قيد الانتظار",
+      "confirmed": "تم التأكيد",
+      "processing": "قيد التجهيز",
+      "shipped": "تم الشحن",
+      "delivered": "تم التوصيل",
+      "cancelled": "ملغي"
+    },
+    "errors": {
+      "loadFailed": "حدث خطأ أثناء تحميل الطلبات",
+      "reorderFailed": "حدث خطأ أثناء إعادة الطلب"
+    }
+  },
+  "cart": {
+    "loading": "جاري تحميل السلة...",
+    "pageLabel": "سلة التسوق",
+    "title": "سلة المشتريات",
+    "itemCount_zero": "{{count}} منتج",
+    "itemCount_one": "{{count}} منتج",
+    "itemCount_two": "{{count}} منتجان",
+    "itemCount_few": "{{count}} منتجات",
+    "itemCount_many": "{{count}} منتجًا",
+    "itemCount_other": "{{count}} منتج",
+    "empty": {
+      "title": "السلة فارغة",
+      "description": "لم تقم بإضافة أي منتجات إلى سلة التسوق بعد."
+    },
+    "startShopping": "تسوق الآن",
+    "noImage": "لا توجد صورة",
+    "removeProduct": "حذف المنتج",
+    "orderSummary": "ملخص الطلب",
+    "items": "عدد المنتجات",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "التوصيل",
+    "shippingCalculated": "يُحسب لاحقاً",
+    "total": "المجموع",
+    "checkout": "إتمام الطلب",
+    "continueShopping": "متابعة التسوق",
+    "errors": {
+      "loadFailed": "فشل تحميل السلة",
+      "updateFailed": "فشل تحديث السلة",
+      "removeFailed": "فشل حذف المنتج"
+    }
+  },
+  "checkout": {
+    "loading": "جاري تحميل الطلب...",
+    "emptyTitle": "السلة فارغة",
+    "emptyDescription": "أضف بعض المنتجات قبل إتمام الطلب.",
+    "continueShopping": "متابعة التسوق",
+    "backToCart": "العودة إلى السلة",
+    "eyebrow": "إتمام الطلب",
+    "title": "معلومات التوصيل",
+    "yourInformation": "بياناتك",
+    "phone": "رقم الهاتف",
+    "phonePlaceholder": "مثال: 07XXXXXXXXX",
+    "city": "المحافظة",
+    "cityPlaceholder": "أدخل المحافظة",
+    "address": "العنوان / الموقع",
+    "addressPlaceholder": "اكتب عنوانك أو موقع التوصيل بالتفصيل",
+    "placeOrder": "تأكيد الطلب",
+    "placingOrder": "جاري إرسال الطلب...",
+    "orderSummary": "ملخص الطلب",
+    "noImage": "لا توجد صورة",
+    "items": "عدد المنتجات",
+    "subtotal": "المجموع الفرعي",
+    "total": "المجموع",
+    "validation": {
+      "invalidPhone": "يجب أن يبدأ رقم الهاتف بـ 07 ويتكون من 11 رقمًا.",
+      "requiredFields": "يرجى إدخال رقم الهاتف والمحافظة والعنوان.",
+      "emptyCart": "السلة فارغة"
+    },
+    "errors": {
+      "loadCart": "فشل تحميل السلة",
+      "placeOrder": "فشل إرسال الطلب"
+    }
+  },
+  "adminEditProduct": {
+    "loading": "جاري تحميل المنتج...",
+    "title": "تعديل المنتج",
+    "subtitle": "عدّل بيانات المنتج ثم اضغط حفظ التغييرات.",
+    "shortDescription": {
+      "title": "وصف مختصر",
+      "description": "وصف مختصر يظهر على بطاقة المنتج.",
+      "englishLabel": "الوصف المختصر بالإنجليزية",
+      "arabicLabel": "الوصف المختصر بالعربية",
+      "englishPlaceholder": "وصف مختصر للمنتج...",
+      "arabicPlaceholder": "وصف مختصر للمنتج..."
+    },
+    "images": {
+      "title": "صور المنتج",
+      "description": "احذف صورًا موجودة أو أضف صورًا جديدة. الصورة الأولى هي الصورة الرئيسية.",
+      "main": "الصورة الرئيسية",
+      "new": "جديدة",
+      "add": "اضغط لإضافة صور",
+      "requirements": "JPG أو PNG أو WEBP — الحد الأقصى 5 ميجابايت للصورة",
+      "existingAlt": "صورة المنتج {{index}}",
+      "newAlt": "صورة المنتج الجديدة {{index}}",
+      "remove": "إزالة الصورة"
+    },
+    "buttons": {
+      "save": "حفظ التغييرات",
+      "saving": "جاري الحفظ..."
+    },
+    "errors": {
+      "loadProduct": "فشل تحميل المنتج",
+      "updateProduct": "فشل تحديث المنتج",
+      "deleteImage": "فشل حذف الصورة",
+      "saveImages": "فشل حفظ صور المنتج",
+      "uploadImage": "فشل تحميل الصورة: {{fileName}}"
+    },
+    "success": "تم تحديث المنتج بنجاح"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "نحن هنا من أجلك",
+      "title": "يسعدنا التواصل معك",
+      "description": "لديك سؤال عن منتجاتنا؟ تواصل معنا عبر الهاتف أو واتساب أو تابعنا على منصات التواصل الاجتماعي.",
+      "callButton": "اتصل بنا",
+      "whatsappButton": "تواصل عبر واتساب"
+    },
+    "info": {
+      "eyebrow": "معلومات التواصل",
+      "title": "دعنا نبقى على تواصل",
+      "description": "نؤمن بأن التجربة المميزة تبدأ من الاهتمام بالتفاصيل. يسعدنا أن تكون SABONA أقرب إليك، وأن نساعدك في معرفة المزيد عن منتجاتنا.",
+      "phone": "رقم الهاتف",
+      "email": "البريد الإلكتروني",
+      "addressLabel": "عنوان المتجر",
+      "address": "بغداد - المحمودية - حي السلام",
+      "workingHours": "أوقات العمل",
+      "workingHoursValue": "من 7 صباحًا إلى 6 مساءً"
+    },
+    "social": {
+      "title": "تابع SABONA",
+      "description": "تابع حساباتنا لتكتشف منتجاتنا الجديدة، وتتعرّف على عالم العناية الطبيعية، وتبقى على اطلاع بكل جديد.",
+      "instagramDescription": "اكتشف منتجاتنا وأحدث منشوراتنا",
+      "facebookDescription": "تابع أخبارنا وتحديثاتنا",
+      "whatsappDescription": "تواصل معنا مباشرة",
+      "tiktokDescription": "شاهد محتوى SABONA",
+      "note": "نحرص على تقديم تجربة مميزة ومعلومات واضحة عن منتجاتنا. يمكنك التواصل معنا مباشرة عبر قنوات الاتصال المتاحة."
+    },
+    "closing": {
+      "title": "عنايتك تبدأ من الطبيعة",
+      "description": "في SABONA، نهتم بالتفاصيل لنقدم لك تجربة عناية تجمع بين البساطة والجودة والاهتمام."
+    }
+  }
+}
