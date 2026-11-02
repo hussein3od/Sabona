@@ -16,7 +16,7 @@ app.disable("x-powered-by");
 
 const allowedOrigins = (
   process.env.CLIENT_ORIGINS ||
-  (process.env.NODE_ENV === "production" ? "" : "http://localhost:5173")
+  (process.env.NODE_ENV === "production" ? "" : "https://sabona-khaki.vercel.app")
 )
   .split(",")
   .map((origin) => origin.trim())
